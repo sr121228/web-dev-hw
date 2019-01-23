@@ -1,5 +1,6 @@
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-2. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. 
-
-3. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+1. The internet is something that is much bigger than the web. The internet is a network of networks that connects milliuons of computers around the world to each other. Any of the computer connected to the internet can communicate with one another as long as they are connected.
+  The web on the otherhand is a system we use to actually tap into the internet. The web uses Hypertext Transfer Protocol (HTTP) to transmit data and acces information on other networks. Browsers such as Google Chrome allow us to acces the internet via the World Wide Web.
+2. If you think of the internet as a wire, ISP's or internet service providers are connected to the "wire" to be able to communicate with other devices on the internet. We then uses clients such as laptops or computers to access the internet through our ISP which connects us with the internet and other devices on the internet or "wire."
+3. A directory is a file system that lets us organize different files into groups. These files get grouped up and put into different folders that they correlate to. A directory starts with the main directory file that has all the sub files and sub folders in it. It then has a hierarchy of folders and files that continue down all the way until the last file.
+4. Using a VCS or Version Control System is extremely beneficial because it allows the developer or developers to save, update, and continue editing whatever project they are working on. Not only can they save and keep editing, but they are able to see old versions of the project, what they changed, and go back to that version if they need to. A VCS can allow for lots of changes in a simple and organized way.
+5. I though it was very interesting being able to put my own image n an actual web page. I'm new to this coding stufff so it was very cool to see that happen and it makes me excited to keep on learning.
