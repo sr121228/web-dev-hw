@@ -1,4 +1,4 @@
-# My responses:
+My responses:
 1. One awesome and fast way that data travels on the internet is through fiber optic cables. These fiber optics reflect light by having tiny mirrors in their cables and all the way down their tubes in order to help send and receive data through out the whole entire internet. These then go to things such as ISP who let you connect to the internet.
 2. An IP address is basically a set of numbers given to every individual device that is connected to the internet. These IP addresses work like home addresses in order for devices to send and receive information. A DNS or domain name system makes it possible for your computer to take the IP address and find the domain names it is related to. This gives the computer you are on access to that domain and its name.
 3. A cookie is a message that web servers pass to a web browse when someone visits a site. The browser then stores that cookie message. Now every we come back to that website it is able to recognize who we are.
