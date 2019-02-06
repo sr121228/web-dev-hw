@@ -1,3 +1,5 @@
+# Assignment 3 Repo
+
 ## How do browsers function?
 
 Browsers are basically a middle man between the code they are recieving and showing you the viewr how it should be presented in front of you. The browser recieves code such as HTML or CSS and interprets the code using a generator that formats it in a way to give the viewer nice pictures, layouts, or anything you see on the page. I use both Google Chrome and Safari however I am mostly using Chrome.
