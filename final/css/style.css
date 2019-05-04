@@ -1,0 +1,130 @@
+/* Fonts */
+h1 {
+  font-family: 'Oswald'; serif
+}
+
+* {
+  font-family: 'Raleway'; sans-serif;
+  line-height: 2;
+}
+
+
+/* Navigation */
+
+.nav-bar{
+  display:inline;
+}
+
+.nav-bar:hover{
+  color: rgb(190, 175, 138);
+}
+
+header{
+  background-color: rgb(91, 91, 91);
+  min-width: 100px;
+  max-width: 300;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  text-align: center;
+}
+
+.menu{
+  margin: auto;
+  padding: .3em;
+  min-width: 70px;
+  line-height: 2em;
+  font-size: 12pt;
+}
+
+.link-style a{
+  color: rgb(255, 255, 255)
+}
+
+a:hover {
+  color: rgb(190, 175, 138)
+}
+
+.link-style:hover{
+  color: rgb(190, 175, 138)
+}
+
+/* Dropdown Stufff */
+
+.dropdown-piece{
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0.6em;
+  min-width: 2em;
+}
+
+.dropdown-piece:hover, .dropdown-piece:hover a {
+    color: rgb(190, 175, 138);
+    background-color: rgb(0, 0, 0);
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown-main {
+    display: none;
+    position: absolute;
+    border: 1px solid rgb(190, 175, 138);
+    margin: 0;
+    width: 6em;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+}
+.dropdown-main a {
+    color: #000;
+}
+.dropdown:hover .dropdown-main {
+    display: block;
+}
+
+
+
+.heading{
+  background-color: rgb(190, 175, 138);
+    width: 700px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.body-text{
+  background-color: rgb(228, 228, 228);
+    width: 700px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    z-index:
+}
+
+.title{
+  text-align: center;
+  color: rgb(255, 255, 255)
+}
+
+#center-text{
+  text-align: center;
+}
+
+.pic1{
+  border-color: rgb(0, 0, 0);
+  position: relative;
+  margin: auto;
+  border-width: thick;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  margin-right: 1em;
+    margin-left: 1em;
+  border-style: double;
+  align-items: center;
+  text-align: center;
+}
